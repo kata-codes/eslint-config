@@ -1,0 +1,10 @@
+name: 'Node CI'
+on:
+    - push
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+            - {name: 'Checkout Repository', uses: actions/checkout@v1}
+            - {name: 'Install Node v12', uses: actions/setup-node@v1, with: {node-version: 12}}
+            - {name: 'npm install', run: 'npm i', env: {CI: true}}

@@ -1,0 +1,15 @@
+{
+	"name": "@kata-codes/eslint-config",
+	"description": "The base ESLint config I use.",
+	"version": "0.1.0",
+	"main": "index.js",
+	"repository": "https://github.com/kata-codes/eslint-config.git",
+	"author": "kata-gatame <nathan@kata.codes>",
+	"license": "MIT",
+	"devDependencies": {
+		"@typescript-eslint/eslint-plugin": "^2.34.0",
+		"@typescript-eslint/parser": "^2.34.0",
+		"eslint": "^7.0.0",
+		"typescript": "^3.9.3"
+	}
+}
