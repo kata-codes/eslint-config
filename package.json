@@ -6,9 +6,11 @@
 	"repository": "https://github.com/kata-codes/eslint-config.git",
 	"author": "kata-gatame <nathan@kata.codes>",
 	"license": "MIT",
-	"devDependencies": {
+	"dependencies": {
 		"@typescript-eslint/eslint-plugin": "^2.34.0",
-		"@typescript-eslint/parser": "^2.34.0",
+		"@typescript-eslint/parser": "^2.34.0"
+	},
+	"devDependencies": {
 		"eslint": "^7.0.0",
 		"typescript": "^3.9.3"
 	}
