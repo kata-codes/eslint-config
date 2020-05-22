@@ -1,6 +1,6 @@
 # [@kata.codes](https://github.com/kata-codes) / [eslint-config](https://github.com/kata-codes/eslint-config)
 
-[![dependencies Status](https://david-dm.org/kata-codes/eslint-config/status.svg)](https://david-dm.org/kata-codes/eslint-config) ![Node CI](https://github.com/kata-codes/eslint-config/workflows/Node%20CI/badge.svg)
+[![dependencies Status](https://david-dm.org/kata-codes/eslint-config/status.svg)](https://david-dm.org/kata-codes/eslint-config) [![devDependencies Status](https://david-dm.org/kata-codes/eslint-config/dev-status.svg)](https://david-dm.org/kata-codes/eslint-config?type=dev) ![Node CI](https://github.com/kata-codes/eslint-config/workflows/Node%20CI/badge.svg)
 
 This repo contains the base ESLint configuration for all **kata.codes** TypeScript projects.
 
