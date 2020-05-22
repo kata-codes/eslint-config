@@ -18,8 +18,6 @@
 		"@typescript-eslint/array-type": [ "error", { "default": "array", "readonly": "array" } ],
 		"@typescript-eslint/await-thenable": "warn",
 		"@typescript-eslint/brace-style": [ "error" ],
-		"@typescript-eslint/camelcase": [ "warn", { "properties": "always" } ],
-		"@typescript-eslint/class-name-casing": [ "error", { "allowUnderscorePrefix": true } ],
 		"@typescript-eslint/consistent-type-assertions": [
 			"error",
 			{
@@ -198,7 +196,6 @@
 		"no-unneeded-ternary": "error",
 		"no-unused-expressions": "error",
 		"no-unused-vars": "off",
-		"no-use-before-define": "error",
 		"no-useless-call": "error",
 		"no-useless-computed-key": "warn",
 		"no-useless-concat": "error",
